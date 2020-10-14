@@ -1,4 +1,4 @@
-# world_time
+# FlutterNews(Work in Progress..)
 
 A new Flutter application.
 

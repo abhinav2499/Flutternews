@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+Features:
+Category Selection from different genre such as sports, entertainment etc.
+Country specific news selection.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

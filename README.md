@@ -1,12 +1,16 @@
-# FlutterNews(Work in Progress..)
+## FlutterNews
 
-A new Flutter application.
+<p float = "left">
+  <img src="https://github.com/abhinav2499/Flutternews/blob/main/screenshot-2020-11-29_22.28.56.372.png" width="250"/>
+  <img src="https://github.com/abhinav2499/Flutternews/blob/main/screenshot-2020-11-29_22.33.03.813.png" width="250"/>
+  <img src="https://github.com/abhinav2499/Flutternews/blob/main/screenshot-2020-11-29_22.36.49.396.png" width="250"/>
+ </p>
 
-Features:
+# Features:
 
-Category Selection from different genre such as sports, entertainment etc.
+ - Category Selection from different genre such as sports, entertainment etc.
 
-Country specific news selection.
+ - Country specific news selection.
 
 ## Getting Started
 
